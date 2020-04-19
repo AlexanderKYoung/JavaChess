@@ -21,7 +21,7 @@
     This program is entirely composed of logic I learned
     from CS180 class (my first time learning code), and, 
     therefore, I have only built this program using 
-    what I learned entirely from that class.
+    what I learned from that class.
     
     Things are likely not efficient. Things are likely completely wrong.
     I built this as a learning experience to teach myself the basics of
