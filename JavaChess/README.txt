@@ -22,7 +22,3 @@
     from CS180 class (my first time learning code), and, 
     therefore, I have only built this program using 
     what I learned from that class.
-    
-    Things are likely not efficient. Things are likely completely wrong.
-    I built this as a learning experience to teach myself the basics of
-    Java and to have something fun I can play around with.
